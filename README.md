@@ -21,25 +21,6 @@ Welcome to the **Train Reservation System** project. This C++ command-line appli
 - **Delete Account**: Passengers can delete their account from the system by entering their username and password.
 - **Change Password**: Passengers can change their password after verifying their old one.
 
-## How to Use
-
-1. **Run the Program**: Compile and run the `train_reservation_system.cpp` using a C++ compiler.
-   
-   - **Compiling**:
-     ```bash
-     g++ -o train_reservation_system train_reservation_system.cpp
-     ```
-
-   - **Running**:
-     ```bash
-     ./train_reservation_system
-     ```
-
-2. **Menu Options**:
-   - Admin can log in with the hardcoded password `PASSWORD`.
-   - Passengers can sign up or log in.
-   - Passengers can then book tickets, view their tickets, or change their passwords.
-   - Admin can add, view, or delete trains.
 
 ## Files Used
 - **`users.dat`**: Stores user data (username, password).
