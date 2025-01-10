@@ -27,12 +27,4 @@ Welcome to the **Train Reservation System** project. This C++ command-line appli
 - **`trains.dat`**: Stores train details (train number, name, seats availability).
 - **`tickets.dat`**: Stores ticket reservation details (reservation number, train number, passenger details).
 
-## Contributions
-
-If you want to contribute to this project, feel free to open a pull request! Improvements and enhancements are always welcome.
-
-## License
-
-This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 Enjoy the train booking experience!
